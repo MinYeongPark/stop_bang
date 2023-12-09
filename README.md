@@ -10,7 +10,7 @@
 
 [🌐 멈춰방 구경하러 가기~](http://hello.stopbang.o-r.kr:3000/)
 
-⨽ GCP 크레딧 이용 기간에만 접속 가능
++) 오픈소스소프트웨어 수업에서 docker, jenkins, kubernetes 적용
 
 ## 🧸 팀원 소개
 
